@@ -8,7 +8,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Mamoudou Sissoko | LinkedIn" width="22px" src="https://www.linkedin.com/in/mamoudou-sissoko-775308230/" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 
 [linkedin]: https://www.linkedin.com/in/mamoudou-sissoko-775308230/
 
